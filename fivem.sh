@@ -5,6 +5,8 @@ echo 'Phpmyadmin installer'
 
 bash <(curl -s https://raw.githubusercontent.com/JulianGransee/PHPMyAdminInstaller/main/install.sh)
 
+cd
+
 echo 'FiveM linux Installer'
 
 apt update && apt upgrade
